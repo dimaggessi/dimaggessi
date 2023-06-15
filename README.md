@@ -2,7 +2,7 @@
 
 ## **About me**
 <p align="left">
-At first, since i was a child I'm curious about how computer things are made since I discovered how to put a hyperlink in a button on the FrontPage 98.
+At first, since I was a child I'm curious about how computer things are made since I discovered how to put a hyperlink in a button on the FrontPage 98.
 
 Well, as such things go, one thing led to another, and now **I'm here pursuiting my passion**.
 </p>
@@ -26,7 +26,6 @@ Well, as such things go, one thing led to another, and now **I'm here pursuiting
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br>
 <br>
 
 #
