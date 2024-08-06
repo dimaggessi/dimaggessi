@@ -39,4 +39,4 @@ Well, as such things go, one thing led to another, and now **I'm here pursuiting
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!--- Urls --->
-[linkedin-url]: https://br.linkedin.com/in/diegosmteixeira
+[linkedin-url]: www.linkedin.com/in/dimaggessi
