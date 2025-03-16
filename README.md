@@ -31,9 +31,6 @@ Well, as such things go, one thing led to another, and now **I'm here pursuiting
 #
 <div>
     <a href="https://github.com/dimaggessi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaggessi&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaggessi&layout=compact&theme=tokyonight">
-
 
 <!--- Shields --->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
